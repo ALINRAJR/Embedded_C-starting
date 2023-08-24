@@ -25,4 +25,6 @@ Protocols and Interfaces: Embedded C programmers often work with communication p
 
 Embedded C programming requires a deep understanding of hardware architecture, low-level programming concepts, and the ability to balance trade-offs between performance, memory usage, and power consumption. It is a crucial skill in industries where reliability, efficiency, and real-time capabilities are paramount.
 
+here in this projects we are throughout using ARM cortex M3 lpc1768 header board
+
 ![image](https://github.com/ALINRAJR/Embedded_C-starting/assets/85385547/278db029-6f35-4ea4-897e-90365f221eee)
