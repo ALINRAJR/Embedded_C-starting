@@ -24,3 +24,5 @@ Security Concerns: As embedded systems become more interconnected, security beco
 Protocols and Interfaces: Embedded C programmers often work with communication protocols (e.g., UART, SPI, I2C) and interfaces (e.g., USB, Ethernet) to enable data exchange between the embedded system and external devices or networks.
 
 Embedded C programming requires a deep understanding of hardware architecture, low-level programming concepts, and the ability to balance trade-offs between performance, memory usage, and power consumption. It is a crucial skill in industries where reliability, efficiency, and real-time capabilities are paramount.
+
+![image](https://github.com/ALINRAJR/Embedded_C-starting/assets/85385547/278db029-6f35-4ea4-897e-90365f221eee)
